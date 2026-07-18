@@ -25,13 +25,13 @@ assets:
   - {seq: 5, filename: KR4e0067_005-WYG.yaml, hash: 'sha256:b945acfccd866957809a62c2e2e918a66dc1b2497acbe03805bc5fd50bfed140'}
   - {seq: 6, filename: KR4e0067_006-WYG.yaml, hash: 'sha256:627efc86f2682d137621d23ff7209a036a9bc13e3decc9da167f8fdefc74776d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4e0067_000-WYG.markers.yaml, hash: 'sha256:bf2b99a7ad15376a8c49a82e274d72a7c4e08045063b206df4e9dd2fde928010'}
-  - {seq: 1, role: markers, filename: assets/KR4e0067_001-WYG.markers.yaml, hash: 'sha256:76e4d10c71aff8c2ffef4dec1380394a7b7ff4e9e98c8f01d2087b3a0ae83c99'}
-  - {seq: 2, role: markers, filename: assets/KR4e0067_002-WYG.markers.yaml, hash: 'sha256:4f8dedc6f83cb2293b9429c9bf9171bf45fa0d8f6f6aad522e4d6d03468a8ef2'}
+  - {seq: 0, role: markers, filename: assets/KR4e0067_000-WYG.markers.yaml, hash: 'sha256:bb32fd7f94d03389c7f2ef8f56b262894cc7e97c39536e78cab2a6088e0b5503'}
+  - {seq: 1, role: markers, filename: assets/KR4e0067_001-WYG.markers.yaml, hash: 'sha256:3a45675bff682892cbf0794f91be8b25cebe7f38e082269c858d022c262ebc36'}
+  - {seq: 2, role: markers, filename: assets/KR4e0067_002-WYG.markers.yaml, hash: 'sha256:06d932d8c97a16240b67e1be2c5c8dea966ee11e5da5b88802be9283e82a266f'}
   - {seq: 3, role: markers, filename: assets/KR4e0067_003-WYG.markers.yaml, hash: 'sha256:3b49b1b959d2bde6d9e655bcee2be2ff717ecb8c19d6771c2ea606bacc897d65'}
   - {seq: 4, role: markers, filename: assets/KR4e0067_004-WYG.markers.yaml, hash: 'sha256:cd1b3e2f003e6d4f2ea82c774ef972ba245281799f48329be55c43a36f84133f'}
   - {seq: 5, role: markers, filename: assets/KR4e0067_005-WYG.markers.yaml, hash: 'sha256:c2b1958bea418cd3578ed7d042b4d2a6e7276a4804befaf31e040eff8060a4eb'}
-  - {seq: 6, role: markers, filename: assets/KR4e0067_006-WYG.markers.yaml, hash: 'sha256:af5f66570dd6c2f9e582dd842a9954e82e57fd29b62452b490cb75b6cca53553'}
+  - {seq: 6, role: markers, filename: assets/KR4e0067_006-WYG.markers.yaml, hash: 'sha256:e7507a5eece30a017b4a2ec3f604b1b719ebaab25708bc8810391a46ca2d0daa'}
 table_of_contents:
 - ref:
     seq: 0
@@ -113,4 +113,4 @@ table_of_contents:
   label: 卷六
   type: section
   level: 1
-hash: sha256:68371a0dcca546a4eb8de001b8cb5619fd2b2e05bf46372412df0b4935768ca7
+hash: sha256:cf067fecd552284c555eeb8c6b60a8836fa6f452018928c112327e941127cc85
